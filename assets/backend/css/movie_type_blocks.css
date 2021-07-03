@@ -1,0 +1,32 @@
+.cate {
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.cate span {
+  padding: 0px 7px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  display: inline-flex;
+  float:left;
+  margin-right:5px;
+  margin-bottom: 5px;
+}
+.cate span a {
+  font-family: 'Dosis', sans-serif;
+  font-size: 12px;
+  color: #ffffff;
+  font-weight: 700;
+}
+.cate .blue {
+  background-color: #1692bb;
+}
+.cate .yell {
+  background-color: #f5b50a;
+}
+.cate .green {
+  background-color: #a6bb16;
+}
+.cate .orange {
+  background-color: #ec5a1a;
+}
